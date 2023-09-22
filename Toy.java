@@ -1,6 +1,6 @@
 public class Toy {
-    private int id;
-    private String name;
+    private final int id;
+    private final String name;
     private int quantity;
     private double weight;
 
